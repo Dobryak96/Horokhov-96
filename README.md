@@ -34,10 +34,4 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 📫 How to reach me:
 
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Telegram](https://t.me/yourusername) | [Email](mailto:youremail@gmail.com)
-
-6. Додатково (необов’язково):
-
-Статистика GitHub (GitHub Readme Stats)
-Badges (технології, мови)
-Коротке посилання на портфоліо
+[LinkedIn](https://linkedin.com/in/oleksandr-horokhov/) | [Telegram](https://t.me/Dobryak_7) | [Email](mailto:gorokhov_olexandr@ukr.net)
