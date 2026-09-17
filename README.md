@@ -22,13 +22,11 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-A2-blue?style=flat-square)
+![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
 ![Russian](https://img.shields.io/badge/Russian-Fluent-lightgrey?style=flat-square)
-
-Контакти
 
 📫 How to reach me:
 
