@@ -20,15 +20,13 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 - [IceCream Landing](https://github.com/yourusername/icecream-team-project) – a responsive landing page for an ice cream brand developed in a team, with a focus on responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), and JavaScript, following the BEM methodology.
 
-Мови
-
 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+![English](https://img.shields.io/badge/English-A2-blue?style=flat-square)
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
-![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
+![Russian](https://img.shields.io/badge/Russian-Fluent-lightgrey?style=flat-square)
 
 Контакти
 
